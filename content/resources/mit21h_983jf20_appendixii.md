@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 55d63d96-6b45-141b-5271-bb8b58faa104
 resourcetype: Document
 title: '21H.983JF20 Assignments: Appendix II - The Trial of Susan B. Anthony'
 uid: 8659b770-18a9-ae6e-024c-3f7212a7e89a

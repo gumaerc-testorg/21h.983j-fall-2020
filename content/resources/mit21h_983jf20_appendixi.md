@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 55d63d96-6b45-141b-5271-bb8b58faa104
 resourcetype: Document
 title: '21H.983JF20 Assignments: Appendix I - Ida B. Wells Primary Sources'
 uid: 849d96bf-b2d0-acfb-82dc-bae01e43afb9
