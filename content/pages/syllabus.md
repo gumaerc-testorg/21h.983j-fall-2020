@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: bd07cc47-0c73-a56f-271a-9f82d0f5406d
 ---
@@ -28,7 +29,7 @@ Student Assignments
 
 Each week students will be responsible for supplying one to two questions (in written or short video) for the week’s readings due by midnight the day before class. Alternatively, they will have another assignment based on primary sources, such as preparing for a debate or mock trial, analyzing images or videos, or finding primary materials in contemporary news sources.
 
-Also, over the course of the semester students will each write a research paper on a topic of their choosing. For more details, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+Also, over the course of the semester students will each write a research paper on a topic of their choosing. For more details, see the {{< resource_link 55d63d96-6b45-141b-5271-bb8b58faa104 "Assignments" >}} section.
 
 Grading Policy
 --------------
@@ -94,11 +95,11 @@ Final presentation
 
 {{< tableclose >}}
 
-For detail on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For detail on the activities above, see the {{< resource_link 55d63d96-6b45-141b-5271-bb8b58faa104 "Assignments" >}} section.
 
 Required Text
 -------------
 
 Ware, Susan. _Why They Marched: Untold Stories of the Women Who Fought for the Right to Vote_. Belknap Press, 2020. ISBN: 9780674248298. \[Preview with [Google Books](https://www.google.com/books/edition/Why_They_Marched/oFWQDwAAQBAJ?hl=en&gbpv=1)\]
 
-For additional readings, see the [Readings and Videos]({{< baseurl >}}/pages/readings-and-videos) section.
+For additional readings, see the {{< resource_link dff5d9c8-b251-0dd4-c9c6-213aec8158d7 "Readings and Videos" >}} section.

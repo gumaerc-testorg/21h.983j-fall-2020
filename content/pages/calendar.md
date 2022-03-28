@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Calendar
 uid: 4b0c226b-8437-8300-1a38-b56ca341da78
 ---
@@ -326,7 +327,7 @@ Whose birth is being controlled and who is trying to do the controlling?
 {{< tdopen >}}
 
 
-Be prepared to present one of the articles for this session in class. (For reference, see the readings in session 11 in the [Readings and Videos]({{< baseurl >}}/pages/readings-and-videos) section.)
+Be prepared to present one of the articles for this session in class. (For reference, see the readings in session 11 in the {{< resource_link dff5d9c8-b251-0dd4-c9c6-213aec8158d7 "Readings and Videos" >}} section.)
 
 
 {{< tdclose >}}
@@ -579,7 +580,7 @@ How do masculine performances prove useful to populist leaders?
 {{< tdopen >}}
 
 
-Students will find and list three ways that Teddy Roosevelt and Vladimir Putin each used masculinity as a political strategy to improve their visibility and political standing. (For reference, see the readings in session 20 of the [Readings and Videos]({{< baseurl >}}/pages/readings-and-videos) section.)
+Students will find and list three ways that Teddy Roosevelt and Vladimir Putin each used masculinity as a political strategy to improve their visibility and political standing. (For reference, see the readings in session 20 of the {{< resource_link dff5d9c8-b251-0dd4-c9c6-213aec8158d7 "Readings and Videos" >}} section.)
 
 
 {{< tdclose >}}
@@ -657,7 +658,7 @@ How has the US responded to COVID-19 and what are the gender, race, and class im
 {{< tdopen >}}
 
 
-Students will find and post at least two news articles on the gender, class and race dimensions of the fight against COVID-19. Students should be ready to discuss their selections in class in terms of why they chose these particular pieces. (For reference, see the readings in session 23 of the [Readings and Videos]({{< baseurl >}}/pages/readings-and-videos) section.)
+Students will find and post at least two news articles on the gender, class and race dimensions of the fight against COVID-19. Students should be ready to discuss their selections in class in terms of why they chose these particular pieces. (For reference, see the readings in session 23 of the {{< resource_link dff5d9c8-b251-0dd4-c9c6-213aec8158d7 "Readings and Videos" >}} section.)
 
 
 {{< tdclose >}}
