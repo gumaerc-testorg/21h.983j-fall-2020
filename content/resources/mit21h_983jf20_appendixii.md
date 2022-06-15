@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21h-983j-gender-historical-perspectives-fall-2020/8659b77018a9ae6e024c3f7212a7e89a_MIT21H_983JF20_AppendixII.pdf
+file: /courses/21h-983j-gender-historical-perspectives-fall-2020/8659b77018a9ae6e024c3f7212a7e89a_MIT21H_983JF20_AppendixII.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

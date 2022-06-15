@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section contains details for the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: 55d63d96-6b45-141b-5271-bb8b58faa104
 ---
@@ -11,12 +11,12 @@ uid: 55d63d96-6b45-141b-5271-bb8b58faa104
 Assignment 1: Ida B. Wells
 --------------------------
 
-Students will read two essays by Wells or examine six visual sources (photos, short films, political cartoons), and then write a short 1–2 page analysis of their primary sources. See {{< resource_link 849d96bf-b2d0-acfb-82dc-bae01e43afb9 "Appendix I (PDF)" >}}.
+Students will read two essays by Wells or examine six visual sources (photos, short films, political cartoons), and then write a short 1–2 page analysis of their primary sources. See {{% resource_link 849d96bf-b2d0-acfb-82dc-bae01e43afb9 "Appendix I (PDF)" %}}.
 
 Assignment 2: The Trial of Susan B. Anthony
 -------------------------------------------
 
-During session 7, students will stage a mock version of the trial using documents from the [Famous Trials](https://famous-trials.com/Anthony) website. See {{< resource_link 8659b770-18a9-ae6e-024c-3f7212a7e89a "Appendix II (PDF)" >}}.
+During session 7, students will stage a mock version of the trial using documents from the [Famous Trials](https://famous-trials.com/Anthony) website. See {{% resource_link 8659b770-18a9-ae6e-024c-3f7212a7e89a "Appendix II (PDF)" %}}.
 
 Research Paper
 --------------
