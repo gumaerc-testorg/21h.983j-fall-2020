@@ -5,6 +5,7 @@ file: /courses/21h-983j-gender-historical-perspectives-fall-2020/8659b77018a9ae6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
