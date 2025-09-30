@@ -33,9 +33,9 @@ What is history and how does it work? 
 
 *Read*
 
-Andrews, Thomas, and Flannery Burge. “[What Does It Mean to Think Historically?](https://www.historians.org/publications-and-directories/perspectives-on-history/january-2007/what-does-it-mean-to-think-historically)” *Perspectives on History*, January 1, 2007.
+Andrews, Thomas, and Flannery Burge. “{{% resource_link "4e224aae-775d-4756-bafe-778d356620b8" "What Does It Mean to Think Historically?" %}}” *Perspectives on History*, January 1, 2007.
 
-Taub, Amanda, and Max Fisher. “[If Only Quoting Women Were Enough](https://www.nytimes.com/2018/02/09/insider/interpreter-gender-bias-women-experts.html),” *New York Times*, February 9, 2018.
+Taub, Amanda, and Max Fisher. “{{% resource_link "5ea0328d-d34b-483d-aacd-0bcb5f0d22b2" "If Only Quoting Women Were Enough" %}},” *New York Times*, February 9, 2018.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 2: Key Questions in Gender(ed) History**
@@ -47,7 +47,7 @@ The role of agency in historical explanation: Why do people use skin lighteners?
 
 *Read*
 
-Thomas, Lynn M. “[Historicising Agency](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0424.12210).” *Gender & History* 28, no. 2 (2016): 324–39. 
+Thomas, Lynn M. “{{% resource_link "f16b7d74-f9f8-43be-bc99-e86c3f3b0cbf" "Historicising Agency" %}}.” *Gender & History* 28, no. 2 (2016): 324–39. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -57,7 +57,7 @@ Why do we have Women's & Gender Studies departments and when did they come into 
 
 *Read*
 
-Gordon, Linda. “[‘Intersectionality’, Socialist Feminism and Contemporary Activism: Musings by a Second‐Wave Socialist Feminist](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0424.12211).” *Gender & History* 28, no. 2 (2016): 340–57.
+Gordon, Linda. “{{% resource_link "2d987892-e6d9-4c8f-86f5-7e9805aa9235" "‘Intersectionality’, Socialist Feminism and Contemporary Activism: Musings by a Second‐Wave Socialist Feminist" %}}.” *Gender & History* 28, no. 2 (2016): 340–57.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 3: Ida B. Wells and the Crusade against Lynching**
@@ -77,13 +77,13 @@ Bederman, Gail. “‘The White Man’s Civilization on Trial’: Ida B. Wells, 
 
 *Reference*
 
-[Ida B. Wells Timeline](https://www.timetoast.com/timelines/ida-b-wells-timeline--2). Timetoast.
+{{% resource_link "ab6a3580-5f91-43a9-9823-ead79f04c9e8" "Ida B. Wells Timeline" %}}. Timetoast.
 
 *View*
 
-“[A Passion For Justice….Ida B. Wells](https://www.youtube.com/watch?v=7NUyPFAJE9M).” YouTube.
+“{{% resource_link "b9726971-0a86-4f45-ab17-ba2726998511" "A Passion For Justice….Ida B. Wells" %}}.” YouTube.
 
-“[Allison K. Lange | Schlesinger Library - Suffrage School || Radcliffe Institute](https://www.youtube.com/watch?v=Ghvfy5j11qQ).” YouTube. 
+“{{% resource_link "7410a8d3-7498-420a-9d16-2f8f77368e40" "Allison K. Lange | Schlesinger Library - Suffrage School || Radcliffe Institute" %}}.” YouTube. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -101,20 +101,20 @@ Why did the trial of Susan B. Anthony create a national sensation in 1873–74?
 
 *Read*
 
-\[W\] “Prologue: A Walk through Suffrage History.” \[Preview with [Google Books](https://www.google.com/books/edition/Why_They_Marched/LDmQDwAAQBAJ?hl=en&gbpv=1)\]
+\[W\] “Prologue: A Walk through Suffrage History.” \[Preview with {{% resource_link "c3153c49-f4d4-48c9-af62-2c35e13c4ba6" "Google Books" %}}\]
 
 \[W\] Chapter 1: The Trial of Susan B. Anthony and the ‘Rochester Fifteen’.
 
 *View*
 
-“[Corinne T. Field | Schlesinger Library - Suffrage School || Radcliffe Institute](https://www.youtube.com/watch?v=VG2Vq0g35J0).” YouTube. 
+“{{% resource_link "24d125b6-7797-4677-9186-61e92512f45a" "Corinne T. Field | Schlesinger Library - Suffrage School || Radcliffe Institute" %}}.” YouTube. 
 
-\*Note: We will stage a mock version of the trial using documents from [Famous Trials](https://famous-trials.com/Anthony). See the {{% resource_link "55d63d96-6b45-141b-5271-bb8b58faa104" "Assignments" %}} section for more detail.
+\*Note: We will stage a mock version of the trial using documents from {{% resource_link "856cd411-edaa-421d-be26-a0904cb8dd81" "Famous Trials" %}}. See the {{% resource_link "55d63d96-6b45-141b-5271-bb8b58faa104" "Assignments" %}} section for more detail.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-Guest lecturer: [Dr. Susan Ware](https://www.susanware.net/)
+Guest lecturer: {{% resource_link "47381799-b126-46b3-8dcd-c9fd05165979" "Dr. Susan Ware" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 *Read*
@@ -127,33 +127,33 @@ Guest lecturer: [Dr. Susan Ware](https://www.susanware.net/)
 
 *Optional reading*
 
-Yaeger, Lynn. “[The African-American Suffragists History Forgot](https://www.vogue.com/article/african-american-suffragists-women-voting-rights).” *Vogue*, October 21, 2015.
+Yaeger, Lynn. “{{% resource_link "4f54d200-a662-44f1-9b49-2bf76e2a28aa" "The African-American Suffragists History Forgot" %}}.” *Vogue*, October 21, 2015.
 
-Edwards, Rebecca. “[Early Women’s Rights Activists Wanted Much More than Suffrage](https://www.history.com/news/early-womens-rights-movement-beyond-suffrage).” History. April 1, 2019.
+Edwards, Rebecca. “{{% resource_link "95f548b8-561d-428a-b0f3-912694b3bd27" "Early Women’s Rights Activists Wanted Much More than Suffrage" %}}.” History. April 1, 2019.
 
 *View*
 
-“[Susan Ware | Schlesinger Library - Suffrage School || Radcliffe Institute](https://www.youtube.com/watch?v=OeteaYNwAlY).” YouTube.
+“{{% resource_link "87c726e6-8244-48bc-bf2b-73806296e9f2" "Susan Ware | Schlesinger Library - Suffrage School || Radcliffe Institute" %}}.” YouTube.
 
 *Suggested viewing*
 
-“[The Vote](https://www.pbs.org/wgbh/americanexperience/films/vote/).” American Experience. PBS. 2020.
+“{{% resource_link "b203b213-dd11-4fac-8f70-cf1d825c8d45" "The Vote" %}}.” American Experience. PBS. 2020.
 
 *Useful website for 1st wave feminism*
 
-[Women's Suffrage Movement](https://libguides.msubillings.edu/suffrage). Montana State University Billings Library.
+{{% resource_link "2f9cdffc-8778-49de-b5c1-7ccdf23dc693" "Women's Suffrage Movement" %}}. Montana State University Billings Library.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 5: A Global History of 1919**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Guest lecturer: [Prof. Mona Siegel](https://www.csus.edu/faculty/s/msiegel/), California State University, Sacramento
+Guest lecturer: {{% resource_link "9814a70e-fb4e-4f35-b954-9dfade981b99" "Prof. Mona Siegel" %}}, California State University, Sacramento
 {{< tdclose >}}{{< tdopen >}}
 
 *Read*
 
-Siegel, Mona. “Prologue: The Closing Days of the First World War.” In *Peace on Our Terms: The Global Battle for Women's Rights After the First War*. Columbia University Press, 2020. ISBN: 9780231195102. \[Preview with [Google Books](https://www.google.com/books/edition/Peace_on_Our_Terms/AlaXDwAAQBAJ?hl=en&gbpv=1)\]
+Siegel, Mona. “Prologue: The Closing Days of the First World War.” In *Peace on Our Terms: The Global Battle for Women's Rights After the First War*. Columbia University Press, 2020. ISBN: 9780231195102. \[Preview with {{% resource_link "c4965372-ca10-4159-b3f8-6a5161eda748" "Google Books" %}}\]
 
 ———. “A New Year in Paris: Women’s Rights at the Peace Conference of 1919.” Chapter 1 in *Peace on Our Terms: The Global Battle for Women's Rights After the First War*. Columbia University Press, 2020. ISBN: 9780231195102. 
 
@@ -165,13 +165,13 @@ How does it feel to be “a colored woman in a white world”?
 
 *Read*
 
-Siegel, Mona. “Timeline of International Women’s Activism in 1919.” In *Peace on Our Terms: The Global Battle for Women's Rights After the First War*. Columbia University Press, 2020. ISBN: 9780231195102. \[Preview with [Google Books](https://www.google.com/books/edition/Peace_on_Our_Terms/AlaXDwAAQBAJ?hl=en&gbpv=1)\]
+Siegel, Mona. “Timeline of International Women’s Activism in 1919.” In *Peace on Our Terms: The Global Battle for Women's Rights After the First War*. Columbia University Press, 2020. ISBN: 9780231195102. \[Preview with {{% resource_link "c4965372-ca10-4159-b3f8-6a5161eda748" "Google Books" %}}\]
 
 ———. “Winter of Our Discontent: Racial Justice in a New World Order.” Chapter 2 in *Peace on Our Terms: The Global Battle for Women's Rights After the First War*. Columbia University Press, 2020. ISBN: 9780231195102. 
 
 *Suggested podcast*
 
-[NBn World Affairs: Mona L. Siegel, “Peace on Our Terms: The Global Battle for Women’s Rights After the First World” (Columbia UP, 2020‪)](https://podcasts.apple.com/lv/podcast/mona-siegel-peace-on-our-terms-global-battle-for-womens/id426479249?i=1000477992929)‬. Apple Podcasts Preview.
+{{% resource_link "7724ed10-7ccd-4e16-a10c-bc22228a85eb" "NBn World Affairs: Mona L. Siegel, “Peace on Our Terms: The Global Battle for Women’s Rights After the First World” (Columbia UP, 2020‪)" %}}‬. Apple Podcasts Preview.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 6: Demographic Engineering or the Many Lives of Birth Control**
@@ -183,9 +183,9 @@ Whose birth is being controlled and who is trying to do the controlling?
 
 *Read one of the following articles*
 
-Roberts, Dorothy E. “[Race, Gender, and Genetic Technologies: A New Reproductive Dystopia?](https://www.journals.uchicago.edu/doi/abs/10.1086/597132)” *Signs* 34, no. 4 (2009): 783–804.
+Roberts, Dorothy E. “{{% resource_link "f3ddad34-9264-4188-8f6b-a14389eb3f64" "Race, Gender, and Genetic Technologies: A New Reproductive Dystopia?" %}}” *Signs* 34, no. 4 (2009): 783–804.
 
-Briggs, Laura. “Debating Reproduction. Birth Control, Eugenics, and Overpopulation in Puerto Rico, 1920–1940.” Chapter 3 in *Reproducing Empire: Race, Sex, Science, and U.S. Imperialism in Puerto Rico*. University of California Press, 2002. ISBN: 9780520232587. \[Preview with [Google Books](https://www.google.com/books/edition/Reproducing_Empire/aSklDQAAQBAJ?hl=en&gbpv=1)\]
+Briggs, Laura. “Debating Reproduction. Birth Control, Eugenics, and Overpopulation in Puerto Rico, 1920–1940.” Chapter 3 in *Reproducing Empire: Race, Sex, Science, and U.S. Imperialism in Puerto Rico*. University of California Press, 2002. ISBN: 9780520232587. \[Preview with {{% resource_link "be468320-5ca6-47fa-9c0b-ba20a071fc60" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -197,7 +197,7 @@ Gender and climate change
 
 Doctress Neutopia. “Review: Joni Seager, Earth Follies: Coming to Feminist Terms with the Global Environmental Crisis.” *Utopian Studies* 7, no. 2 (1996): 328–30.
 
-Gengenbach, Heidi, Rachel A. Schurman, Thomas J. Bassett, et al. “[Limits of the New Green Revolution for Africa: Reconceptualizing Gendered Agricultural Value Chains](https://rgs-ibg.onlinelibrary.wiley.com/doi/abs/10.1111/geoj.12233).” *Geographical Journal* 184, no. 2 (2018) 208–14.
+Gengenbach, Heidi, Rachel A. Schurman, Thomas J. Bassett, et al. “{{% resource_link "3883b73d-b392-40c5-8179-b3c8c4d3cb16" "Limits of the New Green Revolution for Africa: Reconceptualizing Gendered Agricultural Value Chains" %}}.” *Geographical Journal* 184, no. 2 (2018) 208–14.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 7: Work on your long papers and presentation of your questions** 
@@ -217,19 +217,19 @@ When is the personal political and historical?
 
 *Read*
 
-Denetdale, Jennifer Nez. “Introduction.” Chapter 1 in *Reclaiming Diné History: The Legacies of Navajo Chief Manuelito and Juanita*. University of Arizona Press, 2015. ISBN: 9780816532711. \[Preview with [Google Books](https://www.google.com/books/edition/Reclaiming_Din%C3%A9_History/H5MzCgAAQBAJ?hl=en&gbpv=1)\]
+Denetdale, Jennifer Nez. “Introduction.” Chapter 1 in *Reclaiming Diné History: The Legacies of Navajo Chief Manuelito and Juanita*. University of Arizona Press, 2015. ISBN: 9780816532711. \[Preview with {{% resource_link "c208b879-e3e5-449a-b9eb-c3e59ad58759" "Google Books" %}}\]
 
-———. “The Imperial Gaze: Portraits of Juanita and Manuelito, 1868–1902.” Chapter 4 in *Reclaiming Diné History: The Legacies of Navajo Chief Manuelito and Juanita*. University of Arizona Press, 2015. ISBN: 9780816532711. \[Preview with [Google Books](https://www.google.com/books/edition/Reclaiming_Din%C3%A9_History/H5MzCgAAQBAJ?hl=en&gbpv=1)\] 
+———. “The Imperial Gaze: Portraits of Juanita and Manuelito, 1868–1902.” Chapter 4 in *Reclaiming Diné History: The Legacies of Navajo Chief Manuelito and Juanita*. University of Arizona Press, 2015. ISBN: 9780816532711. \[Preview with {{% resource_link "c208b879-e3e5-449a-b9eb-c3e59ad58759" "Google Books" %}}\] 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
-Guest lecturer: [Prof. Jennifer Nez Denetdale](https://americanstudies.unm.edu/about-us/people/faculty-profiles/jennifer-nez-denetdale.html), University of New Mexico
+Guest lecturer: {{% resource_link "f2e0dbf5-367e-426e-9225-8b4cb0496b69" "Prof. Jennifer Nez Denetdale" %}}, University of New Mexico
 {{< tdclose >}}{{< tdopen >}}
 
 *Read*
 
-Denetdale, Jennifer Nez. “[Chairmen, Presidents, and Princesses: The Navajo Nation, Gender, and the Politics of Tradition](https://www.researchgate.net/publication/236821853_Chairmen_Presidents_and_Princesses_The_Navajo_Nation_Gender_and_the_Politics_of_Tradition).” *Wicazo Sa Review* 21, no.1 (2006): 9–28.
+Denetdale, Jennifer Nez. “{{% resource_link "e5dac84d-279b-40e8-b4fe-22f29f24c3c2" "Chairmen, Presidents, and Princesses: The Navajo Nation, Gender, and the Politics of Tradition" %}}.” *Wicazo Sa Review* 21, no.1 (2006): 9–28.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 9: Regulating Queerness in India and Iran**
@@ -241,15 +241,15 @@ Is it a good thing that in Iran the government pays for sex-change surgeries for
 
 *Read*
 
-\[H\] “Glossary.” \[Preview with [Google Books](https://www.google.com/books/edition/Governing_Gender_and_Sexuality_in_Coloni/pG2MDwAAQBAJ?hl=en&gbpv=1)\]
+\[H\] “Glossary.” \[Preview with {{% resource_link "16f9ca37-4482-4e51-8d2e-69ab47e89ff7" "Google Books" %}}\]
 
-\[H\] “Introduction.” \[Preview with [Google Books](https://www.google.com/books/edition/Governing_Gender_and_Sexuality_in_Coloni/pG2MDwAAQBAJ?hl=en&gbpv=1)\]
+\[H\] “Introduction.” \[Preview with {{% resource_link "16f9ca37-4482-4e51-8d2e-69ab47e89ff7" "Google Books" %}}\]
 
-\[H\] Chapter 2: An Ungovernable Population. \[Preview with [Google Books](https://www.google.com/books/edition/Governing_Gender_and_Sexuality_in_Coloni/pG2MDwAAQBAJ?hl=en&gbpv=1)\]
+\[H\] Chapter 2: An Ungovernable Population. \[Preview with {{% resource_link "16f9ca37-4482-4e51-8d2e-69ab47e89ff7" "Google Books" %}}\]
 
 *View*
 
-[*Be Like Others*](https://www.imdb.com/title/tt1157609/). Directed by Tanaz Eshaghian. Color, 74 min. 2008.
+{{% resource_link "b80c0241-2389-483a-b679-df71f352a049" "*Be Like Others*" %}}. Directed by Tanaz Eshaghian. Color, 74 min. 2008.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -271,13 +271,13 @@ Why do the pictures of violated women and children mobilize men into war and the
 
 *Read*
 
-Gullace, Nicoletta F. “[Sexual Violence and Family Honor: British Propaganda and International Law during the First World War](https://academic.oup.com/ahr/article/102/3/714/119505).” *American Historical Review* 102, no. 3 (1997): 714–47.
+Gullace, Nicoletta F. “{{% resource_link "08d1fb6c-cf00-4f7c-8292-2380ce786db5" "Sexual Violence and Family Honor: British Propaganda and International Law during the First World War" %}}.” *American Historical Review* 102, no. 3 (1997): 714–47.
 
-Torchin, Leshu. “[*Ravished Armenia*: Visual Media, Humanitarian Advocacy, and the Formation of Witnessing Publics](https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/aa.2006.108.1.214).” *American Anthropologist* 108, no. 1 (2006): 214–20.
+Torchin, Leshu. “{{% resource_link "a8cd85c9-c1c5-4488-9336-ace42b3bc837" "*Ravished Armenia*: Visual Media, Humanitarian Advocacy, and the Formation of Witnessing Publics" %}}.” *American Anthropologist* 108, no. 1 (2006): 214–20.
 
 *View*
 
-Clips from “[Ravished Armenia](https://www.youtube.com/watch?v=TT_JTcvV0OY).” YouTube.
+Clips from “{{% resource_link "e92ca5ad-d388-4fca-bb56-fe099ffc10b5" "Ravished Armenia" %}}.” YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -287,12 +287,12 @@ When and how did genocidal rape become an international crime?
 
 *View (A documentary about ICTY’s (International Criminal Tribunal for the former Yugoslavia) prosecution of wartime sexual violence)*
 
-“[Sexual Violence and the Triumph of Justice](https://www.youtube.com/watch?v=HZ4EM6iiq0k).” YouTube.
+“{{% resource_link "f1970df2-5762-43a6-b486-ace6a959affe" "Sexual Violence and the Triumph of Justice" %}}.” YouTube.
 
 *Suggested viewing (Choman Hardi reading from her poetry book* Considering the Women)     
  
 
-“[Hardi Considering the Women](https://www.youtube.com/watch?v=c3_GnWR_Lb8).” YouTube.
+“{{% resource_link "fd1d4726-164b-4d2f-b297-31c71d9a915c" "Hardi Considering the Women" %}}.” YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 11: Political Masculinity and Leadership in Historical Context**
@@ -306,7 +306,7 @@ How do masculine performances prove useful to populist leaders?
 
 Bederman, Gail. “Theodore Roosevelt: Manhood, Nation, and ‘Civilization’.” Chapter 5 in *Manliness and Civilization: A Cultural History of Gender and Race in the United States, 1880–1917*. University of Chicago Press, 1996. ISBN: 9780226041391. 
 
-Wood, Elizabeth A. “[Hypermasculinity as a Scenario of Power: Vladimir Putin's Iconic Rule, 1999–2008](https://www.tandfonline.com/doi/abs/10.1080/14616742.2015.1125649).” *International Feminist Journal of Politics* 18, no. 3 (2016): 329–50.
+Wood, Elizabeth A. “{{% resource_link "267a0273-12e5-4d2c-85a8-e6d0f951aad4" "Hypermasculinity as a Scenario of Power: Vladimir Putin's Iconic Rule, 1999–2008" %}}.” *International Feminist Journal of Politics* 18, no. 3 (2016): 329–50.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -316,7 +316,7 @@ How is masculinist populism playing out today?
 
 *Read*
 
-Sofos, Spyros A. “[Charting the Waters: Populism as a Gendered Phenomenon](https://www.opendemocracy.net/en/rethinking-populism/charting-waters-populism-gendered-phenomenon/?fbclid=IwAR1uCjY1iVTq0FCLoEQitImYQjjWe1J8LyVoliC6jNrk4FnDalscnwHHqD0).” January 27, 2020. Open Democracy. *(Articles on populism and gender.)*
+Sofos, Spyros A. “{{% resource_link "ab9e0f03-85d4-4603-982c-eab82f20076b" "Charting the Waters: Populism as a Gendered Phenomenon" %}}.” January 27, 2020. Open Democracy. *(Articles on populism and gender.)*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 12: Gender and the State in the U.S. Today**
@@ -328,7 +328,7 @@ How have US leaders displayed their own machismo?
 
 *Read*
 
-Ferree, Myra Marx. “[The Crisis of Masculinity for Gendered Democracies: Before, During, and After Trump](https://onlinelibrary.wiley.com/doi/abs/10.1111/socf.12599).” *Sociological Forum* 35, no. S1 (2020): 898–917.
+Ferree, Myra Marx. “{{% resource_link "be52a73c-2472-448e-a877-b5f3e955ca5b" "The Crisis of Masculinity for Gendered Democracies: Before, During, and After Trump" %}}.” *Sociological Forum* 35, no. S1 (2020): 898–917.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
@@ -338,27 +338,27 @@ How has the US responded to COVID-19 and what are the gender, race, and class im
 
 *Read three of the following articles*
 
-Enloe, Cynthia. “[Femininity and the Paradox of Trust Building in Patriarchies during COVID-19](http://signsjournal.org/covid/enloe/).” *Signs*.
+Enloe, Cynthia. “{{% resource_link "aa2482fa-c5dd-4114-882e-462eab683d25" "Femininity and the Paradox of Trust Building in Patriarchies during COVID-19" %}}.” *Signs*.
 
-Hammonds, Evelynn M. “[A Moment or a Movement? The Pandemic, Political Upheaval, and Racial Reckoning](http://signsjournal.org/covid/hammonds/).” *Signs*.
+Hammonds, Evelynn M. “{{% resource_link "a065f3de-7e43-479f-854d-3a57719b14e0" "A Moment or a Movement? The Pandemic, Political Upheaval, and Racial Reckoning" %}}.” *Signs*.
 
-Altschuler, Sari, and Priscilla Wald. “[COVID-19 and the Language of Racism](http://signsjournal.org/covid/altschuler-and-wald/).” *Signs*.
+Altschuler, Sari, and Priscilla Wald. “{{% resource_link "bccc8136-2fdb-40e7-9286-75d0665c7d3a" "COVID-19 and the Language of Racism" %}}.” *Signs*.
 
-Chen, Mel Y. “[Feminisms in the Air](http://signsjournal.org/covid/chen/).” *Signs*.
+Chen, Mel Y. “{{% resource_link "d007cf30-5e2d-49e4-bc3d-14ed5b9e7256" "Feminisms in the Air" %}}.” *Signs*.
 
-Patton, Cindy. “[White Men Spitting](http://signsjournal.org/covid/patton/).” *Signs*.
+Patton, Cindy. “{{% resource_link "f6f5ed58-f4ff-410e-958f-ef6c0720aa1f" "White Men Spitting" %}}.” *Signs*.
 
-Ticktin, Miriam. “[Building a Feminist Commons in the Time of COVID-19](http://signsjournal.org/covid/ticktin/).” *Signs*.
+Ticktin, Miriam. “{{% resource_link "4891088e-158b-4463-8d5e-c496bd055b74" "Building a Feminist Commons in the Time of COVID-19" %}}.” *Signs*.
 
 *Optional reading*
 
-Noppert, Grace A. “[COVID-19 Is Hitting Black and Poor Communities the Hardest](https://daily.jstor.org/covid-10-hitting-black-poor-communities-hardest/).” *JSTOR Daily*, April 14, 2020. 
+Noppert, Grace A. “{{% resource_link "c3dc6603-f236-4746-9207-34c9c66e6287" "COVID-19 Is Hitting Black and Poor Communities the Hardest" %}}.” *JSTOR Daily*, April 14, 2020. 
 
-Claire, Manisha. “[The Latent Racism of the Better Homes in America Program](https://daily.jstor.org/the-latent-racism-of-the-better-homes-in-america-program/).” *JSTOR Daily*, February 26, 2020. 
+Claire, Manisha. “{{% resource_link "503d6ed2-67f6-4ed2-a42d-19e14b1cbcf8" "The Latent Racism of the Better Homes in America Program" %}}.” *JSTOR Daily*, February 26, 2020. 
 
-Allers, Kimberly Seals. “[COVID-19 Restrictions on Birth & Breastfeeding: Disproportionately Harming Black and Native Women](https://womensenews.org/2020/03/covid-19-restrictions-on-birth-breastfeeding-disproportionately-harming-black-and-native-women/).”  March 27, 2020. Women's eNews.
+Allers, Kimberly Seals. “{{% resource_link "90874aa0-e5e9-4cbb-922a-91b551829d1b" "COVID-19 Restrictions on Birth & Breastfeeding: Disproportionately Harming Black and Native Women" %}}.”  March 27, 2020. Women's eNews.
 
-Garling, Dr. K. Ashley. “[Shelter-in-Place: How it Impacts Sexual Violence](https://womensenews.org/2020/03/shelter-in-place-how-it-impacts-sexual-violence/).” March 26, 2020. Women's eNews.
+Garling, Dr. K. Ashley. “{{% resource_link "e163a3a3-5fc9-45c7-a3cd-d39673016c99" "Shelter-in-Place: How it Impacts Sexual Violence" %}}.” March 26, 2020. Women's eNews.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 13: Student Presentations**
@@ -379,7 +379,7 @@ No readings or videos assigned 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
-View and discuss [*Left on Pearl*](https://www.imdb.com/title/tt5709630/?ref_=fn_al_tt_1). Directed by Susan Rivo. Color and black & white, 55 min. 2017. ([Trailer](https://www.youtube.com/watch?v=WAKW2pfCPQ4))
+View and discuss {{% resource_link "2f41c88f-78c9-4c0e-bc03-d2ad4deae05f" "*Left on Pearl*" %}}. Directed by Susan Rivo. Color and black & white, 55 min. 2017. ({{% resource_link "729424fd-4764-4422-826c-12a31cb79961" "Trailer" %}})
 {{< tdclose >}}{{< tdopen >}}
 No readings or videos assigned
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

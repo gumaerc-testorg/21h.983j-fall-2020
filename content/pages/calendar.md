@@ -71,7 +71,7 @@ Post 1–2 questions (written or a short video) for the week's readings on the c
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-Guest lecturer: [Dr. Susan Ware](https://www.susanware.net/)
+Guest lecturer: {{% resource_link "47381799-b126-46b3-8dcd-c9fd05165979" "Dr. Susan Ware" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -79,7 +79,7 @@ Guest lecturer: [Dr. Susan Ware](https://www.susanware.net/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Guest lecturer: [Prof. Mona Siegel](https://www.csus.edu/faculty/s/msiegel/), California State University, Sacramento
+Guest lecturer: {{% resource_link "9814a70e-fb4e-4f35-b954-9dfade981b99" "Prof. Mona Siegel" %}}, California State University, Sacramento
 {{< tdclose >}}{{< tdopen >}}
 
 Post 1–2 questions (written or a short video) for the week's readings on the class website
@@ -92,7 +92,7 @@ General topic for research paper due 
 
 How does it feel to be “a colored woman in a white world”?
 
-*A visit from* [*Ece Turnator*](https://libguides.mit.edu/profiles/turnator)*, Humanities and Digital Scholarship Librarian, MIT Libraries*
+*A visit from* {{% resource_link "9f39057d-17e7-447d-9ec0-96013b787c55" "*Ece Turnator*" %}}*, Humanities and Digital Scholarship Librarian, MIT Libraries*
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -134,7 +134,7 @@ Post 1–2 questions (written or a short video) for the week's readings on the c
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
-Guest lecturer: [Prof. Jennifer Nez Denetdale](https://americanstudies.unm.edu/about-us/people/faculty-profiles/jennifer-nez-denetdale.html), University of New Mexico
+Guest lecturer: {{% resource_link "f2e0dbf5-367e-426e-9225-8b4cb0496b69" "Prof. Jennifer Nez Denetdale" %}}, University of New Mexico
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
@@ -178,7 +178,7 @@ Students will find and list three ways that Teddy Roosevelt and Vladimir Putin e
 {{< tdclose >}}{{< tdopen >}}
 How is masculinist populism playing out today?
 {{< tdclose >}}{{< tdopen >}}
-Students will choose one article from “[Charting the Waters: Populism as a Gendered Phenomenon](https://www.opendemocracy.net/en/rethinking-populism/charting-waters-populism-gendered-phenomenon/?fbclid=IwAR1uCjY1iVTq0FCLoEQitImYQjjWe1J8LyVoliC6jNrk4FnDalscnwHHqD0)” and report on its key features to the class
+Students will choose one article from “{{% resource_link "ab9e0f03-85d4-4603-982c-eab82f20076b" "Charting the Waters: Populism as a Gendered Phenomenon" %}}” and report on its key features to the class
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 12: Gender and the State in the U.S. Today**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -212,7 +212,7 @@ Student presentations cont'd
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
-View and discuss [*Left on Pearl*](https://www.imdb.com/title/tt5709630/?ref_=fn_al_tt_1). Directed by Susan Rivo. Color and black & white, 55 min. 2017. ([Trailer](https://www.youtube.com/watch?v=WAKW2pfCPQ4))
+View and discuss {{% resource_link "2f41c88f-78c9-4c0e-bc03-d2ad4deae05f" "*Left on Pearl*" %}}. Directed by Susan Rivo. Color and black & white, 55 min. 2017. ({{% resource_link "729424fd-4764-4422-826c-12a31cb79961" "Trailer" %}})
 {{< tdclose >}}{{< tdopen >}}
 Research papers due
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
